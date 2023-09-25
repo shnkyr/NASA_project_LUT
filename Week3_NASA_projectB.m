@@ -13,7 +13,7 @@ newVars =["unit number","time in cycles","Operational setting 1","Operational se
 %here above code loads data from a file and defines a set of variable names for different sensor measurements and operational settings.
 
 
-%2.  Division of data to test and validation (7:3)
+%2.  Division of data to test and validation (8:2)
 
 trainDataSize = 0;
 for i = 1:80
